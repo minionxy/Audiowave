@@ -1,0 +1,6 @@
+{
+  "name": "AetherWave - Live Audio Spectrum Visualizer",
+  "description": "Ultra-responsive real-time audio sound wave spectrum visualizer with synchronized live microphone, audio song player, synth generator, and multi-mode physics-calibrated waveforms.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
